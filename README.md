@@ -1,5 +1,5 @@
-# render
+# exemple_simple_shader_qt
 
-implementé en c++ + QT + CGAL + OpenGL 3.3 
 
-HPR + R_optmal (CPU)  +  projection et generation des cartes(GPU avec shaders)
+exemple tutorial with site: 
+render with calculating of the depth maps
